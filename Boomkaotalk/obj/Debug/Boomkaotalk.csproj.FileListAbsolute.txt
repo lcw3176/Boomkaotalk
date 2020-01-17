@@ -1,0 +1,8 @@
+D:\project\Cs\Boomkaotalk\Boomkaotalk\bin\Debug\Boomkaotalk.exe.config
+D:\project\Cs\Boomkaotalk\Boomkaotalk\bin\Debug\Boomkaotalk.exe
+D:\project\Cs\Boomkaotalk\Boomkaotalk\bin\Debug\Boomkaotalk.pdb
+D:\project\Cs\Boomkaotalk\Boomkaotalk\obj\Debug\Boomkaotalk.Server.resources
+D:\project\Cs\Boomkaotalk\Boomkaotalk\obj\Debug\Boomkaotalk.Properties.Resources.resources
+D:\project\Cs\Boomkaotalk\Boomkaotalk\obj\Debug\Boomkaotalk.csproj.GenerateResource.cache
+D:\project\Cs\Boomkaotalk\Boomkaotalk\obj\Debug\Boomkaotalk.exe
+D:\project\Cs\Boomkaotalk\Boomkaotalk\obj\Debug\Boomkaotalk.pdb

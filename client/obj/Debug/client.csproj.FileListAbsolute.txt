@@ -1,0 +1,11 @@
+D:\project\Cs\Boomkaotalk\client\bin\Debug\client.exe.config
+D:\project\Cs\Boomkaotalk\client\bin\Debug\client.exe
+D:\project\Cs\Boomkaotalk\client\bin\Debug\client.pdb
+D:\project\Cs\Boomkaotalk\client\obj\Debug\Interop.WMPLib.dll
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.csproj.ResolveComReference.cache
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.Client.resources
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.Login.resources
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.Properties.Resources.resources
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.exe
+D:\project\Cs\Boomkaotalk\client\obj\Debug\client.pdb

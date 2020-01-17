@@ -1,0 +1,11 @@
+C:\Users\THE-LEE\Desktop\client.exe.config
+C:\Users\THE-LEE\Desktop\client.exe
+C:\Users\THE-LEE\Desktop\client.pdb
+D:\project\Cs\Boomkaotalk\client\obj\Release\Interop.WMPLib.dll
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.csproj.ResolveComReference.cache
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.Client.resources
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.Login.resources
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.Properties.Resources.resources
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.csproj.GenerateResource.cache
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.exe
+D:\project\Cs\Boomkaotalk\client\obj\Release\client.pdb
